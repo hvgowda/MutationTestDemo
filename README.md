@@ -1,5 +1,5 @@
-# MutationTestDemo
------------------------------ Enabling PITest to the existing on project with mvn------------------
+# MutationTest Maven Plugin
+
             <plugin>
                 <groupId>org.pitest</groupId>
                 <artifactId>pitest-maven</artifactId>
@@ -12,4 +12,3 @@
                     </dependency>
                 </dependencies>
              </plugin>
-----------------------------------------------------------------------------------------------------
